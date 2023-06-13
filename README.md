@@ -1,4 +1,4 @@
-# Making-Library-Program-Using-Python
+# Library-Program-Using-Python
 This is a simple command-line library management system that allows users to view available books, borrow books, and return books. The program is written in Python and uses classes and methods to implement the functionality of the library system.
 
 
